@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/static/css/main.7458489b.chunk.css",
+    "main.js": "/static/js/main.8acbd4e9.chunk.js",
+    "runtime-main.js": "/static/js/runtime-main.00c7a79b.js",
+    "static/css/2.5537b6e8.chunk.css": "/static/css/2.5537b6e8.chunk.css",
+    "static/js/2.0e7e8408.chunk.js": "/static/js/2.0e7e8408.chunk.js",
+    "index.html": "/index.html",
+    "precache-manifest.503aef214bcd0b19287036d9dcee568b.js": "/precache-manifest.503aef214bcd0b19287036d9dcee568b.js",
+    "service-worker.js": "/service-worker.js",
+    "static/js/2.0e7e8408.chunk.js.LICENSE.txt": "/static/js/2.0e7e8408.chunk.js.LICENSE.txt",
+    "static/media/EnGeniusLogo.svg": "/static/media/EnGeniusLogo.1a73cb75.svg",
+    "static/media/analyze.svg": "/static/media/analyze.338be757.svg",
+    "static/media/diagSwitch.svg": "/static/media/diagSwitch.6f3c8012.svg",
+    "static/media/errorboundary.svg": "/static/media/errorboundary.f0a0e582.svg",
+    "static/media/pen.svg": "/static/media/pen.720fb402.svg",
+    "static/media/index.css": "/static/media/roboto-latin-900italic.ebf6d164.woff2"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.00c7a79b.js",
+    "static/css/2.5537b6e8.chunk.css",
+    "static/js/2.0e7e8408.chunk.js",
+    "static/css/main.7458489b.chunk.css",
+    "static/js/main.8acbd4e9.chunk.js"
+  ]
+}
