@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "/static/css/main.cc2a7a47.chunk.css",
-    "main.js": "/static/js/main.cb8d5906.chunk.js",
+    "main.js": "/static/js/main.15ee5800.chunk.js",
     "runtime-main.js": "/static/js/runtime-main.b8fa0ce9.js",
     "static/css/2.5537b6e8.chunk.css": "/static/css/2.5537b6e8.chunk.css",
-    "static/js/2.4e5aa17b.chunk.js": "/static/js/2.4e5aa17b.chunk.js",
+    "static/js/2.4eacecf9.chunk.js": "/static/js/2.4eacecf9.chunk.js",
     "index.html": "/index.html",
-    "precache-manifest.1dc4ae55940b3274caed3e18ec11469e.js": "/precache-manifest.1dc4ae55940b3274caed3e18ec11469e.js",
+    "precache-manifest.5144983056f10e93492dc7e832a57989.js": "/precache-manifest.5144983056f10e93492dc7e832a57989.js",
     "service-worker.js": "/service-worker.js",
-    "static/js/2.4e5aa17b.chunk.js.LICENSE.txt": "/static/js/2.4e5aa17b.chunk.js.LICENSE.txt",
-    "static/media/EnGeniusLogo.svg": "/static/media/EnGeniusLogo.1a73cb75.svg",
+    "static/js/2.4eacecf9.chunk.js.LICENSE.txt": "/static/js/2.4eacecf9.chunk.js.LICENSE.txt",
     "static/media/main.sass": "/static/media/SophosSans-Ultralight.4cc712bd.otf",
     "static/media/analyze.svg": "/static/media/analyze.338be757.svg",
+    "static/media/brandLogo.svg": "/static/media/brandLogo.2b8e8d08.svg",
     "static/media/diagSwitch.svg": "/static/media/diagSwitch.6f3c8012.svg",
     "static/media/errorboundary.svg": "/static/media/errorboundary.f0a0e582.svg",
     "static/media/pen.svg": "/static/media/pen.720fb402.svg",
@@ -20,8 +20,8 @@
   "entrypoints": [
     "static/js/runtime-main.b8fa0ce9.js",
     "static/css/2.5537b6e8.chunk.css",
-    "static/js/2.4e5aa17b.chunk.js",
+    "static/js/2.4eacecf9.chunk.js",
     "static/css/main.cc2a7a47.chunk.css",
-    "static/js/main.cb8d5906.chunk.js"
+    "static/js/main.15ee5800.chunk.js"
   ]
 }
